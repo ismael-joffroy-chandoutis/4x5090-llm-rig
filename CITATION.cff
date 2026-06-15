@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use or cite this work, please credit it as below."
+title: "4x5090-llm-rig"
+abstract: "Building a 4x RTX 5090 open-air rig for local LLM inference — 128 GB VRAM on a prosumer budget"
+type: dataset
+authors:
+  - given-names: "Ismaël"
+    family-names: "Joffroy Chandoutis"
+    website: "https://github.com/12georgiadis"
+repository-code: "https://github.com/12georgiadis/4x5090-llm-rig"
+url: "https://github.com/12georgiadis/4x5090-llm-rig"
+license: CC-BY-NC-ND-4.0
