@@ -1076,3 +1076,5 @@ Scale path: Mac Mini M5 Pro 48GB → add Mac Studio M5 Max → add second Mac Mi
 This build guide is shared for educational purposes. Hardware choices reflect my specific needs (filmmaker + AI researcher) and budget constraints. Your mileage may vary.
 
 Built with help from Claude Code. Mistakes are mine.
+
+By [Ismaël Joffroy Chandoutis](https://ismaeljoffroychandoutis.com).
