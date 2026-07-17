@@ -1,3 +1,5 @@
+**English** · [Français](README.fr.md)
+
 # 4x RTX 5090 Open-Air Rig for Local LLM Inference
 
 > A filmmaker's journey building a 128 GB VRAM beast for local AI inference and fine-tuning on a prosumer budget.

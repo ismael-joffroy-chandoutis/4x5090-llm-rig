@@ -6,7 +6,7 @@ type: dataset
 authors:
   - given-names: "Ismaël"
     family-names: "Joffroy Chandoutis"
-    website: "https://github.com/12georgiadis"
-repository-code: "https://github.com/12georgiadis/4x5090-llm-rig"
-url: "https://github.com/12georgiadis/4x5090-llm-rig"
+    website: "https://github.com/ismael-joffroy-chandoutis"
+repository-code: "https://github.com/ismael-joffroy-chandoutis/4x5090-llm-rig"
+url: "https://github.com/ismael-joffroy-chandoutis/4x5090-llm-rig"
 license: CC-BY-NC-ND-4.0
