@@ -625,10 +625,10 @@ Ce rig rejoint mon mesh Tailscale existant :
 
 | Machine | Rôle | IP Tailscale |
 |---------|------|-------------|
-| MacBook Air M3 | Poste de travail principal | 100.118.137.41 |
-| Mac Mini M4 | Serveur (Paris) | 100.84.223.88 |
+| MacBook Air M3 | Poste de travail principal | 100.x.x.1 |
+| Mac Mini M4 | Serveur (Paris) | 100.x.x.2 |
 | **Rig 4x5090** | Calcul GPU | À déterminer |
-| PC Windows (existant) | GPU + ComfyUI | 100.82.222.123 |
+| PC Windows (existant) | GPU + ComfyUI | 100.x.x.3 |
 
 Ollama ou vLLM expose une API sur le réseau Tailscale, accessible depuis n'importe quelle machine :
 
